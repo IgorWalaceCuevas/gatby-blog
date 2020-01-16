@@ -10,8 +10,6 @@ const SocialLinks = () => (
     <S.SocialLinksList>
       {links.map((link, i) => {
         const Icon = Icons[link.label];
-        console.log(Icon);
-
         return (
           <S.SocialLinksItem key={i}>
             <S.SocialLinksLink
