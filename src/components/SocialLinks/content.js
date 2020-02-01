@@ -1,7 +1,7 @@
 const links = [
   {
     label: 'Github',
-    url: 'https://github.com/IgorWalaceCuevas',
+    url: 'https://github.com/igorwalacec',
   },
   {
     label: 'LinkedinSquare',

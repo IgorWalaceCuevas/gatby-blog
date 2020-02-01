@@ -9,3 +9,5 @@ background: '#B2BA4A'
 # Tudo sobre .NET
 
 Olá isso é apenas um post fake TESTE!!!!
+
+![Desert](/assets/img/desert.jpg)
